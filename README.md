@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Endryl Richard Monteiro, i'm from Brazil, and i'm a aspiring programmer, working hard to improve my programming skills and to stay up to date.</p>
+<p align="left">My name is Endryl Richard Monteiro, i'm from Brazil and i'm a aspiring programmer, working hard to improve my programming skills by self learning and to stay up to date, to get my first job as software engineer.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning/improving in Javascript and Python.<br>🎯 Goals: Work as a Data Scientist or Software Engineer, always learning more in my journey.<br>🎲 Fun fact: i ended up creating a bug which kept sending the same PDF to a printer...</p>
+<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning and improving in Javascript / Python.<br>🎯 Goals: Work as a Data Scientist or Software Engineer, always learning more throughout the journey.<br>🎲 Fun fact: i ended up creating a bug which kept sending the same PDF to a printer...</p>
 
 ###
 
