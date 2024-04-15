@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Endryl Richard Monteiro and I'm a aspiring programmer, i'm from Brazil, working hard to improve my programming skills and to stay up to date.</p>
+<p align="left">My name is Endryl Richard Monteiro, i'm from Brazil, and i'm a aspiring programmer, working hard to improve my programming skills and to stay up to date.</p>
 
 ###
 
