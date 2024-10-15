@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/C4D03AQFJ_bHapEc1MA/profile-displayphoto-shrink_800_800/0/1649890933576?e=1718841600&v=beta&t=qqOb_-BKyw-SjVIC67GIEtob3UCfL9A2Ek3TuOZfWco"  />
+  <img height="200" src="https://avatars.githubusercontent.com/u/19295260?v=4"  />
 </div>
 
 ###
